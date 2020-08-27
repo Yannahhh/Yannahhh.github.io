@@ -9,7 +9,7 @@
 }
 p{
     font-size: 1.3rem;
-    font-family:  "\5b8b\4f53", sans-serif;
+    font-family:  "\5b8b\4f53", cursive, sans-serif;
     /*courier;*/
     /*;Arial, SimHei, sans-serif,cursive;*/
     /*word-wrap: break-all;*/
@@ -17,7 +17,7 @@ p{
     hyphens: auto;
 }
 h1, h2, h3, h4, h5, h6{
-    font-family: "\5b8b\4f53", sans-serif;
+    font-family: "\5b8b\4f53", cursive, sans-serif;
     /*courier;*/
     /*Arial, SimHei, sans-serif, cursive;*/
     /*font-weight: bold;*/
