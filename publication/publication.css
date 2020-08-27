@@ -1,0 +1,16 @@
+.image{
+    width: 250px;
+    height: 150px;
+    border: 2px lightgray solid;
+}
+table{
+    width: 90%;
+}
+p{
+    font-size: 1.5rem;
+    font-family:cursive;
+    hyphens: auto;
+}
+#second{
+	padding-bottom: 3.5%;
+}

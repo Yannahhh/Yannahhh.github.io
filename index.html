@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chen Xi's Home</title>
+    <link rel="icon" href="image/whale.ico" type="image/vnd.microsoft.icon" />
+    <link href="index.css" rel="stylesheet" type="text/css" />
+</head>
+<body style="cursor: pointer">
+<div class="nav-box">
+    <ul id="nav">
+        <li>Home</li>
+        <li>Publication</li>
+        <li><a href="#" class="a">Project</a></li>
+        <li><a href="#" class="a">Blog</a></li>
+        <li><a href="#" class="a">Contact</a></li>
+    </ul>
+</div>
+<div  id="main">
+    <iframe src="home/home.html" frameBorder="0" width="90%" scrolling="NO" height="100%" margin="0" padding="0px">
+    </iframe>
+</div>
+
+</body>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript">
+    let home=document.querySelectorAll("#nav>li");
+    let iframe=document.querySelector("#main>iframe");
+    home[0].style.fontWeight="bolder";
+    home[1].onclick = function(){
+        iframe.src = "publication/publication.html";
+        home[1].style.fontWeight="bolder";
+        for (let i=0;i<5;i++){
+            if(i===1) continue;
+            home[i].style.fontWeight="normal";
+        }
+    };
+    home[0].onclick = function(){
+        iframe.src = "home/home.html";
+        home[0].style.fontWeight="bolder";
+        for (let i=0;i<5;i++){
+            if(i===0) continue;
+            home[i].style.fontWeight="normal";
+        }
+    }
+</script>
+</html>
