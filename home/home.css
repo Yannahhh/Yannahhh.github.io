@@ -8,7 +8,7 @@
     text-align: center;
 }
 p{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-family:  "\5b8b\4f53", sans-serif;
     /*courier;*/
     /*;Arial, SimHei, sans-serif,cursive;*/
@@ -32,10 +32,10 @@ h1, h2, h3, h4, h5, h6{
     hyphens: auto;
 }
 h1{
-    font-size: 3.25rem;
+    font-size: 2.7rem;
 }
 h3{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 #content{
     padding-right: 3%;
