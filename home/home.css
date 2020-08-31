@@ -40,8 +40,9 @@ h3{
 #content{
     padding-right: 3%;
     width: 67%;
-    height: 88%;
+    height: 700px;
     float: left;
+    overflow: scroll;
 }
 #head_img{
     padding-top: 5%;

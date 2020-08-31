@@ -9,10 +9,8 @@ html,body{
     font-size: 1rem;
     color: inherit;
     background-color: #fff; 
-    
+    /*overflow: scroll*/
 }
-
-
 
 .nav-box{
     width: 100%;
@@ -38,4 +36,5 @@ html,body{
     width: 97%;
     padding-top: 0.7%;
     text-align: center;
+    overflow: scroll;
 }
