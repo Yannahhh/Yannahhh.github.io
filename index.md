@@ -67,7 +67,7 @@ During my first year at UW, I received support from the [Fulbright program](http
   {% for pub in sorted_publications %}
     {% if pub.highlight %}
       <a href="{{ pub.pdf }}" class="publication">
-        <strong>{{ pub.title }}</strong>
+        <strong>{{ pub.title }}</strong> <br/>
         <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
         <i>{% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
         {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}

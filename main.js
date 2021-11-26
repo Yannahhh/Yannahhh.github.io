@@ -13,7 +13,7 @@ JELLYFISH.Main = (function() {
 	var timer = new Date();
 	var addJellyTimer = 0;
 	var jellyCounter = 0;
-	var numJellies = 10;
+	var numJellies = 2;
 	var jellies = [numJellies];
 	var jellyResolution = 16;
 
