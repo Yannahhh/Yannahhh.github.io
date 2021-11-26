@@ -18,7 +18,7 @@ class: home
 
 <div class="intro" markdown="1">
 
-I’m now a second-year PhD student in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. [Huamin Qu](http://www.huamin.org). 
+I’m now a second-year Ph.D. candidate in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. [Huamin Qu](http://www.huamin.org). 
 
 Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University in 2019. And my research interests are data analytics and data visualization.
 
@@ -86,7 +86,7 @@ During my first year at UW, I received support from the [Fulbright program](http
 <div class="news" markdown="1">
 ## Latest News
 
-<ul>
+<ul class="scroll-bar">
 {% for news in site.data.news limit:10 %}
   {% include news.html news=nelows %}
 {% endfor %}
@@ -97,7 +97,7 @@ During my first year at UW, I received support from the [Fulbright program](http
 <div class="award" markdown="1">
 ## Awards
 
-  <ul>
+  <ul class="scroll-bar">
     {% assign future_award = site.data.awards | where_exp:'item','item.start == null' %}
     {% for award in future_award %}
       {% include award.html award=award %}

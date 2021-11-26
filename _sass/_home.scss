@@ -161,6 +161,22 @@
     ul {
       list-style: none;
       margin-left: 0;
+      height: 300px;
+      overflow-y: scroll;
+      border: 1px solid $brand-color;
+      padding: 10px 10px;
+
+      &::-webkit-scrollbar{
+          width:9px;
+          height:16px;
+          background-color: #7142881c;
+      }
+      &::-webkit-scrollbar-thumb{
+          width:9px;
+          height:16px;
+          background-color:$brand-color;
+          border-radius: 9px;
+      }
 
       li {
         margin-bottom: 1em;
@@ -179,6 +195,22 @@
     ul {
       list-style: none;
       margin-left: 0;
+      height: 300px;
+      overflow-y: scroll;
+      border: 1px solid black;
+      padding: 10px 10px;
+
+      &::-webkit-scrollbar{
+          width:9px;
+          height:16px;
+          background-color: #7142881c;
+      }
+      &::-webkit-scrollbar-thumb{
+          width:9px;
+          height:16px;
+          background-color:$brand-color;
+          border-radius: 9px;
+      }
 
       li {
         margin-bottom: 1em;
