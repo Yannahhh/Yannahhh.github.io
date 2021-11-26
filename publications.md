@@ -40,15 +40,14 @@ class: pubs
   Show only highlights
 </label>
  -->
-<p id="clear-filters" class="hidden">
+<!-- <p id="clear-filters" class="hidden">
   <i class="fas fa-times-circle" aria-hidden="true"></i> Clear all filters. <span id="count_hidden">X</span> of <span id="count_total">X</span> publications are hidden by the filters.
 </p>
-
+ -->
 {% assign pubyears = site.publications | group_by:"year"  %}
 {% assign sorted_pubyears = pubyears | reverse %}
 {% for year in sorted_pubyears %}
-## {{ year.name }}
-{:#y{{ year.name }} .year}
+ <h2 class="publicationyear" href="#y{{ year.name }}"><span> {{ year.name }} </span> </h2>
 {% for pub in year.items %}
   {% include publication.html pub=pub %}
 {% endfor %}

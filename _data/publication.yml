@@ -1,0 +1,56 @@
+- id: cheng21VBridge
+  title: "VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Models"
+  authors:
+    - Furui Cheng
+    - Dongyu Liu
+    - Fan Du
+    - Yanna Lin
+    - Alexandra Zytek
+    - Haomin Li
+    - Huamin Qu
+    - Kalyan Veeramachaneni 
+  venue: TVCG
+  year: 2021
+  image: ./assets/img/publication/cheng21VBridge.png
+  arxiv: https://arxiv.org/abs/2007.15407
+  link: https://arxiv.org/abs/2108.02550
+  recording: https://www.youtube.com/watch?v=V7kfbnuBqFI
+  code: https://github.com/sibyl-dev/VBridge
+
+- id: shao2021MVBayesian
+  title: "Composition and Configuration Patterns in Multiple-View Visualizations"
+  authors:
+    - Xi Chen
+    - Wei Zeng
+    - Yanna Lin
+    - Hayder Mahdi Al-maneea
+    - Jonathan Roberts
+    - Remco Chang 
+  venue: ChinaVis
+  year: 2021
+  image: ./assets/img/publication/shao2021MVBayesian.png
+  pdf: https://link.springer.com/article/10.1007/s12650-021-00781-z
+  link: https://lingdan33.github.io/bayesmvlayout/
+
+
+
+- id: chen2020MV
+  title: "Composition and Configuration Patterns in Multiple-View Visualizations"
+  authors:
+    - Xi Chen
+    - Wei Zeng
+    - Yanna Lin
+    - Hayder Mahdi Al-maneea
+    - Jonathan Roberts
+    - Remco Chang 
+  venue: TVCG
+  year: 2020
+  image: ./assets/img/publication/chen2020MV.png
+  arxiv: https://arxiv.org/abs/2007.15407
+  link: https://mvlandscape.bitbucket.io/
+  recording: https://www.youtube.com/watch?v=WSPCbIdDnFQ
+
+
+
+
+

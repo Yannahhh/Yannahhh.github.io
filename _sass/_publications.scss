@@ -80,6 +80,16 @@
     width: 80px !important;
   }
 }
+.publicationyear{
+      border-bottom: 1px dashed #c0bebe;
+      margin-bottom: 5vh;
+      height: 15px;
+
+    span{
+      padding: 0 20px 0 0;
+      background-color: white;
+    }
+}
 
 #clear-filters {
   color: $grey-color-dark;

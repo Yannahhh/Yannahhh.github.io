@@ -5,7 +5,7 @@
 
   h2 {
     font-size: 1.5em;
-    border-bottom: none;
+    
   }
 
   .columns {
@@ -145,6 +145,31 @@
     }
   }
 
+  .publication{
+    .fa-award {
+        color: firebrick;
+    }
+    .awards {
+      margin-top: 0.1em;
+      font-weight: 500;
+      color: firebrick;
+    }
+    
+
+  }
+
+
+  .publicationyear{
+      border-bottom: 1px dashed #c0bebe;
+      margin-bottom: 5vh;
+      height: 15px;
+
+      span{
+        padding: 0 20px 0 0;
+        background-color: white;
+      }
+    }
+
   .news-travel {
     display: flex;
     flex-direction: row;
@@ -215,15 +240,19 @@
       li {
         margin-bottom: 1em;
       }
-      span{
+      .award_des{
         display: block;
         font-size: 0.8em;
+      }
+      .award_name{
+        font-weight: bold;
       }
 
       time {
         display: block;
         color: $grey-color;
         font-size: 0.8em;
+        margin-top: -15px;
       }
     }
   }

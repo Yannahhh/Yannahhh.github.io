@@ -1,11 +1,12 @@
-- name: IEEEVis Honorable Mention Award
+- name: IEEE VIS Honorable Mention Award
   years: 2021
-  description: "For \"VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Model\""
+  description: "For \"*[VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Model](https://www.furuicheng.tech/project/vbridge/)*\""
 - name: ChinaVis Best Paper Nomination
   years: 2018
-  description: "For \"Modeling layout design for multiple-view visualization via Bayesian inference\""
-- name: Hong Kong PhD Fellowship Scheme
+  description: "For \"*[Modeling layout design for multiple-view visualization via Bayesian inference](https://lingdan33.github.io/bayesmvlayout/)*\""
+- name: "[Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)"
   years: 2020-2024
+  link: https://cerg1.ugc.edu.hk/hkpfs/index.html
   description: Highly competitive scholarship for the best and brightest students in the world to pursue their PhD studies in Hong Kong's universities
 - name: National scholarship and First-class scholarship
   years: 2016-2018 (3 consecutive years)

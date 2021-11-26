@@ -4,7 +4,6 @@ title: "Home"
 class: home
 ---
 <body style=""><path>
-    <canvas id="canvas" resize="" width="100%" height="100%" style="position: fixed; top: 0; opacity: 0.1; z-index:-10"></canvas>
 
 
 
@@ -61,25 +60,20 @@ During my first year at UW, I received support from the [Fulbright program](http
 <div class="columns" markdown="1">
 ## Publications 
 </div>
+{% assign pubyears = site.publications | group_by:"year"  %}
+{% assign sorted_pubyears = pubyears | reverse %}
+{% for year in sorted_pubyears %}
+ <h2 class="publicationyear" href="#y{{ year.name }}"><span> {{ year.name }} </span> </h2>
+{% for pub in year.items %}
+  {% include publication.html pub=pub %}
+{% endfor %}
+{% endfor %}
 
-<div class="featured-publications">
-  {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
-  {% for pub in sorted_publications %}
-    {% if pub.highlight %}
-      <a href="{{ pub.pdf }}" class="publication">
-        <strong>{{ pub.title }}</strong> <br/>
-        <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
-        <i>{% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
-        {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
-      </a>
-    {% endif %}
-  {% endfor %}
-</div>
+<script>
+  {% include itemsjs.min.js %}
+  {% include pubfilter.js %}
+</script>
 
-<!-- <a href="{{ "/publications/" | relative_url }}" class="button">
-  <i class="fas fa-chevron-circle-right"></i>
-  Show All Publications
-</a> -->
 
 <div class="news-travel" markdown="1">
 
