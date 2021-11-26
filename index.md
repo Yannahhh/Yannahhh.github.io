@@ -4,8 +4,15 @@ title: "Home"
 class: home
 ---
 <body style=""><path>
-    <canvas id="canvas" resize="" width="100%" height="100%" style="position: absolute; top: 0; opacity: 0.5"></canvas>
+    <canvas id="canvas" resize="" width="100%" height="100%" style="position: fixed; top: 0; opacity: 0.1; z-index:-10"></canvas>
+
+
+
+<div class="columns" markdown="1">
+
 # Hi, I'm Yanna Lin
+
+</div>
 
 <div class="columns" markdown="1">
 
@@ -51,7 +58,9 @@ During my first year at UW, I received support from the [Fulbright program](http
 
 <!-- ## Featured Publications -->
 
+<div class="columns" markdown="1">
 ## Publications 
+</div>
 
 <div class="featured-publications">
   {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
@@ -85,23 +94,17 @@ During my first year at UW, I received support from the [Fulbright program](http
 
 </div>
 
-<!-- <div class="travel" markdown="1">
-## Latest Travel
+<div class="award" markdown="1">
+## Awards
 
-<table>
-<tbody>
-{% assign future_travel = site.data.travel | where_exp:'item','item.start == null' %}
-{% for travel in future_travel %}
-  {% include travel.html travel=travel %}
-{% endfor %}
-{% assign sorted_travel = site.data.travel | where_exp:'item','item.start' | sort: 'start' | reverse %}
-{% for travel in sorted_travel limit:10 %}
-  {% include travel.html travel=travel %}
-{% endfor %}
-</tbody>
-</table>
+  <ul>
+    {% assign future_award = site.data.awards | where_exp:'item','item.start == null' %}
+    {% for award in future_award %}
+      {% include award.html award=award %}
+    {% endfor %}
+  </ul>
 
-</div> -->
+</div>
 
 </div>
 

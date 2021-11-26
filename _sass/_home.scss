@@ -19,14 +19,13 @@
 
     .me {
       margin-left: $spacing-unit;
-      margin-bottom: $spacing-unit;
 
       font-size: 0.9em;
       text-align: center;
 
       picture, img {
-        width: 220px;
-        height: 220px;
+        width: 180px;
+        height: 180px;
         border-radius: 6px;
       }
 
@@ -165,6 +164,28 @@
 
       li {
         margin-bottom: 1em;
+      }
+
+      time {
+        display: block;
+        color: $grey-color;
+        font-size: 0.8em;
+      }
+    }
+  }
+  .award {
+
+    padding-left: $spacing-unit;
+    ul {
+      list-style: none;
+      margin-left: 0;
+
+      li {
+        margin-bottom: 1em;
+      }
+      span{
+        display: block;
+        font-size: 0.8em;
       }
 
       time {
