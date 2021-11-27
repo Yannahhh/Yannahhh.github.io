@@ -83,7 +83,7 @@ To enhance people's ability to understand and communicate large and complex data
 <article>
   <div class="date-container">
     <span class="date">{{ award.years | replace: "-", "–" }}</span>
-    <strong class="fill">{{ award.name  }}</strong>
+    <strong class="fill">{{ award.name | markdownify }}</strong>
     <span class="right">{{ award.sponsor }}</span>
   </div>
   <p class="muted">
