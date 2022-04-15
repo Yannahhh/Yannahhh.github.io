@@ -79,7 +79,7 @@
   }
 
   .pub {
-    margin-bottom: 1.2rem;
+    margin-bottom: 0.8rem;
 
     .fill {
       fill: 1;
@@ -99,7 +99,12 @@
   .muted, .muted a {
     color: $grey-color;;
   }
-
+  .muted a {
+    margin-top: -18px;
+  }
+  #needtochange{
+    margin-top:-25px;
+  }
   .award {
     color: $yellow-color;
     white-space: nowrap;
@@ -121,6 +126,7 @@
 
   article {
     margin-left: 0 !important;
+    margin-bottom: -10px;
   }
 
   article > * {

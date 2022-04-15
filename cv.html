@@ -8,12 +8,12 @@ title: CV
 
 <h1><a href="{{ absolute_url }}/">Yanna Lin</a></h1>
 
-<small class="live-link">Last updated in <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. Get the latest version at <a href="{{ '/cv' | absolute_url }}">yannahhh.github.io/cv</a>.</small>
-
+<!-- <small class="live-link">Last updated in <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. Get the latest version at <a href="{{ '/cv' | absolute_url }}">yannahhh.github.io/cv</a>.</small>
+ -->
 <div class="header-columns">
   <div>
     <p>
-      Ph.d Candidate at HKUST<br/>
+      Ph.D. Candidate at HKUST<br/>
     </p>
   </div>
   <div>
@@ -86,7 +86,7 @@ To enhance people's ability to understand and communicate large and complex data
     <strong class="fill">{{ award.name | markdownify }}</strong>
     <span class="right">{{ award.sponsor }}</span>
   </div>
-  <p class="muted">
+  <p class="muted" id={{award.id}}>
     {{ award.description | markdownify | remove: '<p>' | remove: '</p>' }}
   </p>
 </article>
