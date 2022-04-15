@@ -150,6 +150,13 @@ To enhance people's ability to understand and communicate large and complex data
                 <i class="fas fa-book" aria-hidden="true"></i> Bibtex
               </a>
             {% endif %}
+
+            {% if pub.slides %}
+              <a href="{{ pub.slides }}">
+                <i class="fas fa-presentation-screen" aria-hidden="true"></i> slides
+              </a>
+            {% endif %}
+              
             </div>
           {% endif %}
 
