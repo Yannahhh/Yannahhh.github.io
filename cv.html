@@ -96,7 +96,7 @@ To enhance people's ability to understand and communicate large and complex data
 <h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign sorted_pubs = site.publications | reverse %}
-{% assign types = "Conference" | split: "|" %}
+{% assign types = "Conference|Poster" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
