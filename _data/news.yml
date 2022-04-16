@@ -1,22 +1,26 @@
-- message: "Pass PQE and become a Ph.D. candidate"
+- message: "Finished the IEEEVIS'22 submission"
+  date: 2022-04-01
+- message: "Our VR'2022 poster [\"Let Every Seat Be Perfect! A Case Study on Combining BIM and VR for Room Planning\"](https://haotian-li.com/paper/vr-bim.pdf) is to appear!"
+  date: 2022-03-12
+- message: "Passed PQE and became a Ph.D. candidate"
   date: 2021-11-15
 - message: "Struggle for my Ph.D. Qualifying Exam(PQE)"
   date: 2020-10-27
 - message: "Our IEEE VIS'21 Paper [\"VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Models\"](https://www.furuicheng.tech/project/vbridge/) get the Best Paper Honorable Mention Award"
   date: 2021-10-07
-- message: "Return to HK, and start my new Life in HKUST"
+- message: "Returned to HK, and start my new Life in HKUST"
   date: 2021-08-31
 - message: "Our ChinaVis'21 Paper [\"Modeling layout design for multiple-view visualization via Bayesian inference\"](https://lingdan33.github.io/bayesmvlayout/) get the Best Paper Honorable Mention Award"
   date: 2021-06-01
-- message: "Finish the one-and-a-half-year intern"
+- message: "Finished the one-and-a-half-year intern"
   date: 2021-08-23
-- message: "Become an intern of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, supervised by Prof. [Zeng Wei](https://zeng-wei.com)"
+- message: "Became an intern of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, supervised by Prof. [Zeng Wei](https://zeng-wei.com)"
   date: 2019-12-01
 - message: "Start my new journey of Ph.D. in HKUST, under the supervision of Prof. [Huamin Qu](http://www.huamin.org)."
   date: 2020-09-01
-- message: "Get the Hong Kong Ph.D. Fellowship Scheme (HKPFS)"
+- message: "Got the Hong Kong Ph.D. Fellowship Scheme (HKPFS)"
   date: 2020-04-08
-- message: "Get a Bachelor's Degree from Sun Yat-Sen University"
+- message: "Got a Bachelor's Degree from Sun Yat-Sen University"
   date: 2019-07-12
 # - message: "I passed my general exam and am now a PhD candidate."
 #   date: 2018-08-22
