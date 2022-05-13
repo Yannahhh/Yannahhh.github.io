@@ -98,7 +98,7 @@ To enhance people's ability to understand and communicate large and complex data
 <h2>Publications</h2>
 
 {% assign sorted_pubs = site.publications | reverse %}
-{% assign types = "Conference|Poster" | split: "|" %}
+{% assign types = "Conference|Poster|Journal" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
@@ -157,6 +157,11 @@ To enhance people's ability to understand and communicate large and complex data
             {% if pub.slides %}
               <a href="{{ pub.slides }}">
                 <i class="fas fa-presentation-screen" aria-hidden="true"></i> slides
+              </a>
+            {% endif %}
+            {% if pub.supplementary %}
+              <a href="{{ pub.supplementary }}">
+                <i class="fa-solid fa-file-invoice-dollar" aria-hidden="true"></i> slides
               </a>
             {% endif %}
               
