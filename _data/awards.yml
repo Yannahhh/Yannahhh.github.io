@@ -1,3 +1,6 @@
+- name: HKUST RedBird Academic Excellence Award
+  years: 2022
+  description: An award in recognition of the outstanding performance and research capacity of the students
 - name: IEEE VIS Honorable Mention Award
   years: 2021
   description: "For \"*[VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Model](https://www.furuicheng.tech/project/vbridge/)*\""
