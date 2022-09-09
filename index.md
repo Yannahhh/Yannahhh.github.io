@@ -17,9 +17,9 @@ class: home
 
 <div class="intro" markdown="1">
 
-I’m now a second-year Ph.D. candidate in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. [Huamin Qu](http://www.huamin.org). 
+I’m now a third-year Ph.D. candidate in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. [Huamin Qu](http://www.huamin.org). 
 
-Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University in 2019. And my research interests are data analytics and data visualization.
+Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University. My research interests are data analytics & data visualization.
 
 </div>
 
