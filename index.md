@@ -27,7 +27,7 @@ Before joining HKUST, I received a Bachelor’s Degree in the Software Engineeri
 <picture>
   <source srcset='/images/lala1.jpeg' type='image/webp' />
   <img
-    src='/images/lala1.jpeg'
+    src='/images/lala1.jpg'
     alt='Yanna Lin'>
 </picture>
 
