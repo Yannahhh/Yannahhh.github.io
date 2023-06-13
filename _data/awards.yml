@@ -1,4 +1,7 @@
 - name: HKUST RedBird Academic Excellence Award
+  years: 2023
+  description: An award in recognition of the outstanding performance and research capacity of the students
+- name: HKUST RedBird Academic Excellence Award
   years: 2022
   description: An award in recognition of the outstanding performance and research capacity of the students
 - name: IEEE VIS Honorable Mention Award
