@@ -17,9 +17,11 @@ class: home
 
 <div class="intro" markdown="1">
 
-I’m now a third-year Ph.D. candidate in Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. [Huamin Qu](http://www.huamin.org). 
+I am now a third-year Ph.D. candidate at the Hong Kong University of Science and Technology, supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
+I am awarded [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees).
+Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University, ranked 1/447. 
 
-Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University. My research interests are data analytics & data visualization.
+My research interests are in data analytics, data visualisation, and human-AI collaboration, in particular enhancing and optimising workflows for exploratory data analysis.
 
 </div>
 
