@@ -17,7 +17,7 @@ class: home
 
 <div class="intro" markdown="1">
 
-I am now a third-year Ph.D. candidate at the Hong Kong University of Science and Technology, supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
+I am now a fourth-year Ph.D. candidate at the Hong Kong University of Science and Technology, supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
 I am awarded [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees).
 Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University, ranked 1/447. 
 
