@@ -23,6 +23,8 @@ Before joining HKUST, I received a Bachelor’s Degree in the Software Engineeri
 
 My research interests are in data analytics, data visualisation, and human-AI collaboration, in particular enhancing and optimising workflows for exploratory data analysis.
 
+<span style="background-color:#f4ecfc; font-weight: bold;">I am on the job market now. Please contact me if you have any relevant positions or opportunities:) </span>
+
 </div>
 
 <div class="me" markdown="1">
