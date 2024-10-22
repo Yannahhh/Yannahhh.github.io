@@ -17,11 +17,13 @@ class: home
 
 <div class="intro" markdown="1">
 
-I am now a fourth-year Ph.D. candidate at the Hong Kong University of Science and Technology, supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
-I am awarded [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees).
+I am now a Postdoc at the Hong Kong University of Science and Technology, supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
+I obtained a Ph.D. degree from the Hong Kong University of Science and Technology.
+My PhD was awarded [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees).
 Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University, ranked 1/447. 
 
-My research interests are in data analytics, data visualisation, and human-AI collaboration, in particular enhancing and optimising workflows for exploratory data analysis.
+My research interests include data visualisation and human-AI collaboration. I focus on designing intuitive interfaces and developing algorithms to enhance data communication and analysis, and facilitate data-driven decision-making.
+
 
 <span style="background-color:#f4ecfc; font-weight: bold;">I am on the job market now. Please contact me if you have any relevant positions or opportunities:) </span>
 
