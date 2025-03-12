@@ -1,0 +1,29 @@
+---
+layout: publication
+authors:
+  - Yanna Lin
+  - Leni Yang
+  - Haotian Li
+  - Huamin Qu
+  - Dominik Moritz
+highlight: true
+<!-- awards:
+  - Best Paper Honorable Mention Award -->
+type:
+  - Conference
+image: ../assets/img/publication/lin2025InterLink.png
+tags:
+  - Computational Notebook, User Comprehension, Text-Code/Output Linking, Interactive Computational Notebook
+venue: CHI
+venue_tags:
+  - HCI
+<!-- video: https://drive.google.com/file/d/135kSXb0FClNn_ou64DXVJOF8vjJ3EVSu/view?usp=drive_link-->
+pdf: https://arxiv.org/abs/2502.16114
+<!-- slides: ../assets/slides/InkSight-v1.pptx-->
+<!-- supplementary: https://drive.google.com/drive/folders/1UszZyv4l9B-SN9EOq2xOYK2xTysPCRp_?usp=sharing -->
+title: "InterLink: Linking Text with Code and Output in Computational Notebooks"
+venue_url: https://chi2025.acm.org
+year: 2025
+
+---
+
