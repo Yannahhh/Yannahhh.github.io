@@ -17,10 +17,10 @@ tags:
 venue: CHI
 venue_tags:
   - HCI
-<!-- video: https://drive.google.com/file/d/135kSXb0FClNn_ou64DXVJOF8vjJ3EVSu/view?usp=drive_link-->
+video: https://drive.google.com/file/d/1x0cvAMXjzx95vEx2uwZ93NBP13aTPy9v/view?usp=sharing
 pdf: https://arxiv.org/abs/2502.16114
-<!-- slides: ../assets/slides/InkSight-v1.pptx-->
-<!-- supplementary: https://drive.google.com/drive/folders/1UszZyv4l9B-SN9EOq2xOYK2xTysPCRp_?usp=sharing -->
+slides: https://docs.google.com/presentation/d/1l7OmZYXbKbDhDJRWDKjZxFyA7QsN3p3x/edit?usp=sharing&ouid=108565786270432652420&rtpof=true&sd=true
+supplementary: https://drive.google.com/drive/folders/1CaRMVu98e3HJUq0vBxh1C-vfDiaKNmR5?usp=sharing
 title: "InterLink: Linking Text with Code and Output in Computational Notebooks"
 venue_url: https://chi2025.acm.org
 year: 2025
