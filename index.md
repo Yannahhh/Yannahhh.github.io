@@ -17,10 +17,10 @@ class: home
 
 <div class="intro" markdown="1">
 
-I am now a Postdoc at the Hong Kong University of Science and Technology, supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
-I obtained a Ph.D. degree from the Hong Kong University of Science and Technology.
-My PhD was awarded [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees).
-Before joining HKUST, I received a Bachelor’s Degree in the Software Engineering, Sun Yat-sen University, ranked 1/447. 
+I am now a Postdoctoral Researcher at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
+I obtained my Ph.D. in Computer Science and Engineering from HKUST, where I was awarded the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and received [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees) for 3 consecutive years.
+Prior to that, I earned my Bachelor’s Degree in Software Engineering from Sun Yat-sen University, ranked 1/447.
+During my undergraduate studies, I was honored with the National Scholarship for three consecutive years, awarded to the top 0.5% of students.
 
 My research interests include data visualisation and human-AI collaboration. I focus on designing intuitive interfaces and developing algorithms to enhance data communication and analysis, and facilitate data-driven decision-making.
 
