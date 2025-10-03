@@ -64,7 +64,8 @@ My research interests include data visualisation and human-AI collaboration. I f
 <div class="columns" markdown="1">
 ## Publications 
 </div>
-{% assign pubyears = site.publications | group_by:"year"  %}
+{% assign highlighted = site.publications | where_exp: "p", "p.highlight == true or p.highlight == 'true'" %}
+{% assign pubyears = highlighted | group_by:"year"  %}
 {% assign sorted_pubyears = pubyears | reverse %}
 {% for year in sorted_pubyears %}
  <h2 class="publicationyear" href="#y{{ year.name }}"><span> {{ year.name }} </span> </h2>
