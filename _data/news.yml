@@ -1,3 +1,11 @@
+- message: "🎉 Our project—on which I am a co-I, with Prof. [Wei Zeng](https://zeng-wei.com) as the PI—has been awarded RMB 500,000 by the National Natural Science Foundation of China (NSFC) General Program to support Intelligent Multi-View Visualization Generation with LLMs!"
+  date: 2025-08-27
+- message: "🎉 Our paper [\"DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models\"]() is accepted by IEEE VIS'25! Congrat. to [Liwenhan Xie](https://shellywhen.github.io)!"
+  date: 2025-07-15
+- message: "🎉 Our paper [\"Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering\"]() is accepted by EMNLP'26! Congrat. to [Zixin Chen](https://cinderd.github.io)!"
+  date: 2025-07-15
+- message: "🎉 Our paper [\"RhythmTA: a Visual-aided Interactive System for ESL Rhythm Training via Dubbing Practice\"]() is accepted by UIST25! Congrat. to [Chang Chen](https://cerachen.github.io/changchen.github.io/)!"
+  date: 2025-07-04
 - message: "🎉 Our paper [\"InterLink: Linking Text with Code and Output in Computational Notebooks\"](https://arxiv.org/abs/2502.16114) is accepted by CHI25!"
   date: 2025-03-01
 - message: "🎉 Our paper [\"GVVST: Image-Driven Style Extraction from Graph Visualizations for Visual Style Transfer\"](https://ieeexplore.ieee.org/document/10734252) is accepted by TVCG!"
