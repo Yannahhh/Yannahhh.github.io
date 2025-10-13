@@ -17,15 +17,17 @@ class: home
 
 <div class="intro" markdown="1">
 
-I am now a Postdoctoral Researcher at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
-I obtained my Ph.D. in Computer Science and Engineering from HKUST, where I was awarded the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and received [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees) for 3 consecutive years.
-Prior to that, I earned my Bachelor’s Degree in Software Engineering from Sun Yat-sen University, ranked 1/447.
-During my undergraduate studies, I was honored with the National Scholarship for three consecutive years, awarded to the top 0.5% of students.
+I am a Postdoctoral Researcher at the University of Waterloo, working with [Prof. Jian Zhao](https://www.jeffjianzhao.com) in the [WVisdom research lab](https://www.jeffjianzhao.com/team).
+
+Before joining Waterloo, I worked as a Postdoctoral Researcher and obtained my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
+My Ph.D. was supported by the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and recognized with the [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees) for three consecutive years.
+I earned my Bachelor’s Degree in Software Engineering from Sun Yat-sen University, ranked 1/447.
+During my undergraduate studies, I was honored with the National Scholarship for three consecutive years (top 0.5%).
 
 My research interests include data visualisation and human-AI collaboration. I focus on designing intuitive interfaces and developing algorithms to enhance data communication and analysis, and facilitate data-driven decision-making.
 
 
-<span style="background-color:#f4ecfc; font-weight: bold;">I am on the job market now. Please contact me if you have any relevant positions or opportunities:) </span>
+<span style="background-color:#f4ecfc; font-weight: bold;">I am on the job market. Please contact me if you have any relevant positions or opportunities:) </span>
 
 </div>
 
