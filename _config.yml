@@ -2,7 +2,7 @@
 title: Yanna Lin
 email: ylindg@connect.ust.hk
 description: > # this means to ignore newlines until "baseurl:"
-   A Postdoc at HKUST working on data visualization.
+   A Postdoc at UWaterloo working on data visualization and hci.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.yannahhh.github.io" # the base hostname & protocol for your site
 production_url: "https://www.domoritz.de"
