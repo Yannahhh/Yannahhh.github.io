@@ -33,9 +33,9 @@ My research interests include data visualisation and human-AI collaboration. I f
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/lala4.0.png' type='image/webp' />
+  <source srcset='/images/lala4.1.JPG' type='image/webp' />
   <img
-    src='/images/lala4.0.png'
+    src='/images/lala4.1.JPG'
     alt='Yanna Lin'>
 </picture>
 
