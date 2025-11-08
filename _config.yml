@@ -1,6 +1,6 @@
 # Site settings
 title: Yanna Lin
-email: ylindg@connect.ust.hk
+email: yanna.lin@uwaterloo.ca
 description: > # this means to ignore newlines until "baseurl:"
    A Postdoc at UWaterloo working on data visualization and hci.
 baseurl: "" # the subpath of your site, e.g. /blog
