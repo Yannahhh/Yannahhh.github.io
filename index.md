@@ -24,10 +24,15 @@ My Ph.D. was supported by the [Hong Kong PhD Fellowship Scheme](https://cerg1.ug
 I earned my Bachelor’s Degree in Software Engineering from Sun Yat-sen University, ranked 1/447.
 During my undergraduate studies, I was honored with the National Scholarship for three consecutive years (top 0.5%).
 
-My research interests include data visualisation and human-AI collaboration. I focus on designing intuitive interfaces and developing algorithms to enhance data communication and analysis, and facilitate data-driven decision-making.
+<!-- My research interests include data visualisation and human-AI collaboration. I focus on designing intuitive interfaces and developing algorithms to enhance data communication and analysis, and facilitate data-driven decision-making. -->
+
+My research lies at the intersection of <span style="font-weight: bold;">Human-AI Collaboration, Data Visualization, and Intelligent Interactive Systems</span>.
+I study <span style="font-weight: bold;">how users communicate intent to AI and understand AI behavior in complex analytical and data-intensive workflows</span>.
+My work combines visualization, interaction, and AI techniques to develop human-centered systems for <span style="font-weight: bold;">multimodal intent expression, AI reasoning interpretation and debugging, and data-driven decision-making</span>.
 
 
-<span style="background-color:#f4ecfc; font-weight: bold;">I am on the job market. Please contact me if you have any relevant positions or opportunities:) </span>
+
+<span style="background-color:#f4ecfc; font-weight: bold;">I am actively seeking academic positions and industry research opportunities. Please feel free to contact me if you have any relevant openings or opportunities :)</span>
 
 </div>
 
