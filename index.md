@@ -69,7 +69,7 @@ My work combines visualization, interaction, and AI techniques to develop human-
 <!-- ## Featured Publications -->
 
 <div class="columns" markdown="1">
-## Publications 
+## Selected Publications 
 </div>
 {% assign highlighted = site.publications | where_exp: "p", "p.highlight == true" %}
 {% assign pubyears = highlighted | group_by:"year" %}
